@@ -26,7 +26,7 @@ function subtract(number1, number2) {
 }
 
 function divide(number1, number2) {
-    console.log(Please Stick to the test content .)
+    console.log("Please Stick to the test content .")
     return number1 / number2
 }
 
