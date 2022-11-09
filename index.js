@@ -12,7 +12,8 @@ module.exports.isEqual = isEqual;
 function add(...number) {
     let sum = 0;
     number.forEach(x => sum += x);
-    return summ;
+console.log("The addition is:")	
+    return sum;
 }
 
 function multiply(...number) {
