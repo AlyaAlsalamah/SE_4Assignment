@@ -41,6 +41,7 @@ function factorial(number) {
     for (let i = number; i > 0 ; i--) {
         sum *= i
     }
+    console.log("Factorial sum")
     return sum
 }
 
