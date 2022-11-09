@@ -22,7 +22,8 @@ function multiply(...number) {
 }
 
 function subtract(number1, number2) {
-    return number1 - number3
+console.log("The subtraction is:")
+    return number1 - number2
 }
 
 function divide(number1, number2) {
