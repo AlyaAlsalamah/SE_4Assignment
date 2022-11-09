@@ -41,7 +41,7 @@ function factorial(number) {
     for (let i = number; i > 0 ; i--) {
         sum *= i
     }
-    return sum
+    return summ
 }
 
 function modolo(number1, number2) {
